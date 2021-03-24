@@ -1,0 +1,6 @@
+﻿  PCBsource.c
+e:\os\asn1pcb\asn1pcb\pcbsource.c(83): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  e:\os\asn1pcb\asn1pcb\pcbsource.c(83): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  e:\os\asn1pcb\asn1pcb\pcbsource.c(83): note: the missing variadic argument 2 is required by format string '%c'
+  e:\os\asn1pcb\asn1pcb\pcbsource.c(83): note: this argument is used as a buffer size
+  asn1PCB.vcxproj -> E:\OS\asn1PCB\Debug\asn1PCB.exe
